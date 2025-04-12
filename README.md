@@ -36,5 +36,16 @@ This project simulates the motion of a chaser spacecraft attempting to dock at a
 - **Energy Consumption vs Time**
 - **Animated Docking Sequence**
 
+## MATLAB Code
+
+The MATLAB code for this project can be found [here](ChaserDocking.m).
+
+## Future Improvements:
+
+- **Implementing an optimal trajectory generation algorithm.**
+- **actuator and sensor hardware selection.**
+
+
+
 
 
